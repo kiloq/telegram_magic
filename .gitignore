@@ -7,3 +7,4 @@ proxies.txt
 sessions.txt
 *.session
 __pycache__
+.vscode
