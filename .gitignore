@@ -1,0 +1,9 @@
+bunned/*
+off/*
+sessions/*
+unauthorized/*
+cfg.py
+proxies.txt
+sessions.txt
+*.session
+__pycache__
